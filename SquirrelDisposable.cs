@@ -4,6 +4,16 @@ namespace SquirrelInheritable
 {
     public class SquirrelDisposable : IDisposable
     {
+        public SquirrelDisposable()
+        {
+            Disposed = false;
+        }
+
+        public bool isDisposed()
+        {
+            return Disposed;
+        }
+
         public void Dispose()
         {
             Dispose(true);
