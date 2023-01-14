@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "squirrel-inheritable/1.0.0": {
+        "runtime": {
+          "squirrel-inheritable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "squirrel-inheritable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

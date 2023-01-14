@@ -1,0 +1,12 @@
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/bin/Debug/net6.0/squirrel-inheritable.deps.json
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/bin/Debug/net6.0/squirrel-inheritable.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/bin/Debug/net6.0/squirrel-inheritable.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.csproj.AssemblyReference.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.AssemblyInfoInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.AssemblyInfo.cs
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/refint/squirrel-inheritable.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/squirrel-inheritable.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Inheritable/obj/Debug/net6.0/ref/squirrel-inheritable.dll
